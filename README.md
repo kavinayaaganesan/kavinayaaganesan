@@ -1,10 +1,10 @@
 # Hi there, I'm Kavinayaa Ganesan! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCente## 🎯 Current Focus
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&vCent## 🎯 Current Focus
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,20,11&height=40&section=header&text=🎯%20What%20I'm%20Working%20On&fontSize=16&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ede9fe,100:ddd6fe&height=40&section=header&text=🎯%20What%20I'm%20Working%20On&fontSize=16&fontColor=6d28d9" />
 </div>
 
 <div align="center">
@@ -42,11 +42,11 @@ Projects:
   <img src="https://user-images.githubusercontent.com/74038190/212284089-2f2f90b4-681e-4148-8ba7-7e8c209ca605.gif" width="200">
   
   **📚 Current Reading:** "The Web Application Hacker's Handbook" & "Clean Code"
-</div>&multiline=true&width=600&height=100&lines=🚀+Full+Stack+Developer;🔐+Cybersecurity+Enthusiast;🎓+B.Tech+IT+Student;✨+Always+Learning+%26+Growing!" alt="Typing SVG" />
+</div>e&multiline=true&width=600&height=100&lines=🚀+Full+Stack+Developer;🔐+Cybersecurity+Enthusiast;🎓+B.Tech+IT+Student;✨+Always+Learning+%26+Growing!" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e7ff,100:c7d2fe&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=42&fontColor=1e40af&animation=fadeIn&fontAlignY=32" />
 </div>
 
 ## 🚀 About Me
@@ -55,6 +55,7 @@ Projects:
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
+<div align="center">
 <table align="center">
 <tr>
 <td align="center" width="50%">
@@ -75,6 +76,7 @@ Projects:
 </td>
 </tr>
 </table>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
@@ -89,44 +91,41 @@ Projects:
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=🚀+Technologies+I+Work+With;💻+Always+Learning+Something+New!" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=dc2626&center=true&vCenter=true&width=435&lines=🚀+Technologies+I+Work+With;💻+Always+Learning+Something+New!" alt="Tech Stack" />
 </div>
 
 <div align="center">
   
 ### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,java,cpp,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,java,cpp,html,css&theme=light" />
 </p>
 
 ### 🎨 Frontend Development  
 <p>
-<img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind,sass,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind,sass,figma&theme=light" />
 </p>
 
 ### ⚙️ Backend Development
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql&theme=light" />
 </p>
 
 ### 🗄️ Databases & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,aws,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,aws,firebase&theme=light" />
 </p>
 
 ### 🔒 Cybersecurity & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,vim&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,vim&theme=light" />
 </p>
-
 </div>
-
----
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6,17,11&height=40&section=header&text=📈%20My%20GitHub%20Journey&fontSize=16&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dbeafe,100:bfdbfe&height=40&section=header&text=📈%20My%20GitHub%20Journey&fontSize=16&fontColor=1e40af" />
 </div>
 
 <div align="center">
@@ -134,12 +133,12 @@ Projects:
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kavinayaaganesan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kavinayaaganesan&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_radius=20&border_color=2563eb&icon_color=dc2626&title_color=1e40af&text_color=374151&bg_color=ffffff" alt="GitHub Stats"/>
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinayaaganesan&layout=compact&theme=tokyonight&border_radius=20&border_color=00D9FF&title_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinayaaganesan&layout=compact&theme=default&border_radius=20&border_color=2563eb&title_color=1e40af&text_color=374151&bg_color=ffffff" alt="Top Languages"/>
 
 </td>
 </tr>
@@ -147,35 +146,31 @@ Projects:
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavinayaaganesan&theme=tokyonight" alt="Contribution Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavinayaaganesan&theme=default" alt="Contribution Details"/>
 </div>
-
----
 
 ## 🔥 GitHub Streak Stats
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&section=header&text=🔥%20Streak%20&%20Activity&fontSize=16&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fef3c7,100:fde68a&height=40&section=header&text=🔥%20Streak%20&%20Activity&fontSize=16&fontColor=92400e" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kavinayaaganesan&theme=tokyonight-duo&hide_border=true&stroke=00D9FF&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FF6B6B&dates=FFFFFF&sideLabels=00D9FF" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=kavinayaaganesan&theme=default&hide_border=true&stroke=2563eb&background=ffffff&ring=dc2626&fire=f59e0b&currStreakLabel=1e40af&sideNums=374151&currStreakNum=dc2626&dates=6b7280&sideLabels=2563eb" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=17,11,6&height=40&section=header&text=🏆%20Achievements%20&%20Trophies&fontSize=16&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f3e8ff,100:e9d5ff&height=40&section=header&text=🏆%20Achievements%20&%20Trophies&fontSize=16&fontColor=7c3aed" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavinayaaganesan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kavinayaaganesan&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
@@ -187,11 +182,11 @@ Projects:
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,6,11&height=40&section=header&text=📈%20Contribution%20Activity&fontSize=16&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ecfdf5,100:d1fae5&height=40&section=header&text=📈%20Contribution%20Activity&fontSize=16&fontColor=065f46" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavinayaaganesan&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&custom_title=Kavinayaa's%20Contribution%20Graph" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavinayaaganesan&theme=github-light&bg_color=ffffff&color=2563eb&line=dc2626&point=374151&area=true&hide_border=true&custom_title=Kavinayaa's%20Contribution%20Graph" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
@@ -203,14 +198,14 @@ Projects:
 ## 💭 Quote of the Day
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,17,6&height=40&section=header&text=💭%20Daily%20Inspiration&fontSize=16&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fef7cd,100:fef3c7&height=40&section=header&text=💭%20Daily%20Inspiration&fontSize=16&fontColor=a16207" />
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" alt="Random Dev Quote"/>
       </td>
     </tr>
   </table>
@@ -225,7 +220,11 @@ Projects:
 ## 🗺️ GitHub Streak Map
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinayaaganesan&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" alt="GitHub Streak Map"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fce7f3,100:fbcfe8&height=40&section=header&text=🗺️%20Streak%20Visualization&fontSize=16&fontColor=be185d" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=kavinayaaganesan&theme=default&hide_border=true&stroke=2563eb&background=ffffff&ring=dc2626&fire=f59e0b&currStreakLabel=1e40af&sideNums=374151&currStreakNum=dc2626&dates=6b7280&sideLabels=2563eb" alt="GitHub Streak Map"/>
 </div>
 
 ---
@@ -242,21 +241,21 @@ Projects:
 ## 📫 Let's Connect!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=17,6,11,20&height=40&section=header&text=🌐%20Connect%20With%20Me&fontSize=16&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e0f2fe,100:b3e5fc&height=40&section=header&text=🌐%20Connect%20With%20Me&fontSize=16&fontColor=0277bd" />
 </div>
 
 <div align="center">
   <a href="https://linkedin.com/in/kavinayaaganesan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=00D9FF" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=2563eb" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/kavinayaaganesan">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=00D9FF" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1e40af" alt="Twitter"/>
   </a>
   <a href="https://instagram.com/kavinayaaganesan">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=FF6B6B" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=dc2626" alt="Instagram"/>
   </a>
   <a href="mailto:kavinayaaganesan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=FF6B6B" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=ef4444" alt="Email"/>
   </a>
 </div>
 
@@ -294,4 +293,3 @@ Projects:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 </div>
-
