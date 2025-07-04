@@ -1,35 +1,41 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXcydGkzaWppOGt6eXV6czNlNjQ1bjg2dGg0aWthZnJjMW1sNmViayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="60%" style="border-radius: 10px; margin-bottom: 15px;" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=35&pause=500&color=36BCF7FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hey+There!+%F0%9F%91%8B;I'm+Jayanthan+Senthilkumar;Fullstack+Developer;AI+%26+ML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=35&pause=500&color=36BCF7FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hey+There!+%F0%9F%91%8B;I'm+Jayanthan+Senthilkumar;Fullstack+Developer;Cyber+Security+Specialist" alt="Typing SVG" />
   
-  [![](https://komarev.com/ghpvc/?username=jayanthansenthilkumar&color=36BCF7&style=for-the-badge&label=Profile+Views)](https://github.com/jayanthansenthilkumar)
+  [![](https://komarev.com/ghpvc/?username=kavinayaaganesan&color=36BCF7&style=for-the-badge&label=Profile+Views)](https://github.com/kavinayaaganesan)
 </div>
 
 ## 💫 About Me
 
 <div align="center">
 
-| 🌐 Full Stack Development | 🤖 AI Engineering |
+| 🌐 Full Stack Development | 🛡️ Cyber Security |
 |:------------------------:|:-----------------:|
-| 💻 **PHP & MERN Stack Developer** | 🎓 **B.Tech in AI & ML** |
-| 🔧 **Scalable Web Applications** | 🧠 **Deep Learning with TensorFlow** |
-| ⚡ **PHP** & **Node.js** Intermediate Level | 📊 **Data Engineering** & Analysis |
-| 📱 **Responsive UI** Design | 🔍 **ML Model Development** |
-| 🛢️ **MongoDB**, **MySQL**, **Supabase** | 🚀 **AI Solution Architecture** |
+| 💻 **PHP & MERN Stack Developer** | 🔒 **Penetration Testing & Ethical Hacking** |
+| 🔧 **Scalable Web Applications** | 🛡️ **Web Application Security** |
+| ⚡ **PHP** & **Node.js** Intermediate Level | � **Vulnerability Assessment** |
+| 📱 **Responsive UI** Design | � **Security Incident Response** |
+| 🛢️ **MongoDB**, **MySQL**, **Supabase** | � **Cryptography & Network Security** |
 
 </div>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,tensorflow,flask,react,mongodb,mysql,docker&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,nodejs,react,mongodb,mysql,docker,linux&theme=light" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" width="95%" src="https://github-profile-trophy.vercel.app/?username=jayanthansenthilkumar&theme=flat&column=8&margin-w=5&margin-h=5&no-bg=true&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img height="150" width="95%" src="https://github-profile-trophy.vercel.app/?username=kavinayaaganesan&theme=flat&column=8&margin-w=5&margin-h=5&no-bg=true&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 <div align="center">
@@ -37,7 +43,7 @@
   <tr>
     <td width="50%" align="center" valign="top" style="padding: 20px;">
       <h3>🔥 GitHub Streak</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanthansenthilkumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinayaaganesan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
     <td width="50%" align="center" valign="top" style="padding: 20px;">
       <h3>💭 Quote of the Day</h3>
@@ -53,28 +59,29 @@
     <td width="50%" valign="top" style="padding: 20px;">
       <h2>📚 Currently Learning</h2>
       <ul style="list-style: none; padding: 0;">
-        <li>🔧 <b>DevOps</b> & Cloud Architecture</li>
-        <li>🤖 <b>LLMs</b> & Transformers</li>
-        <li>🎯 <b>System Design</b> & Scalability</li>
-        <li>📊 <b>Data Engineering</b> Pipeline</li>
+        <li>� <b>Advanced Penetration Testing</b></li>
+        <li>☁️ <b>Cloud Security</b> (AWS/Azure)</li>
+        <li>🛡️ <b>SOC Analysis</b> & SIEM Tools</li>
+        <li>🔐 <b>Malware Analysis</b> & Reverse Engineering</li>
+        <li>⚡ <b>DevSecOps</b> & Security Automation</li>
       </ul>
     </td>
     <td width="50%" align="center" valign="top" style="padding: 20px;">
       <h2>🤝 Connect With Me</h2>
       <div style="margin: 20px 0;">
-        <a href="https://www.linkedin.com/in/jayanthan18" target="_blank">
+        <a href="https://www.linkedin.com/in/kavinayaaganesan" target="_blank">
           <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="45" height="45" />
         </a>
         &nbsp;&nbsp;
-        <a href="mailto:jayanthansenthilkumar18@gmail.com">
+        <a href="mailto:kavinayaaganesan@gmail.com">
           <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="45" height="45" />
         </a>
         &nbsp;&nbsp;
-        <a href="https://ceo.prisoltech.com" target="_blank">
+        <a href="https://kavinayaaganesan.com" target="_blank">
           <img src="https://img.icons8.com/fluent/48/000000/domain.png" width="45" height="45" />
         </a>
         &nbsp;&nbsp;
-        <a href="https://instagram.com/jayanthansenthilkumar" target="_blank">
+        <a href="https://instagram.com/kavinayaaganesan" target="_blank">
           <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="45" height="45" />
         </a>
       </div>
