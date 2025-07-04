@@ -35,6 +35,21 @@
 <div align="center">
 <table width="100%">
   <tr>
+    <td width="50%" align="center" valign="top" style="padding: 20px;">
+      <h3>🔥 GitHub Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanthansenthilkumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td width="50%" align="center" valign="top" style="padding: 20px;">
+      <h3>💭 Quote of the Day</h3>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+<table width="100%">
+  <tr>
     <td width="50%" valign="top" style="padding: 20px;">
       <h2>📚 Currently Learning</h2>
       <ul style="list-style: none; padding: 0;">
