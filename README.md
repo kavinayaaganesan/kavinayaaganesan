@@ -1,68 +1,153 @@
 # Hi there, I'm Kavinayaa Ganesan! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;B.Tech+IT+Student;Always+Learning+%26+Growing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCente## 🎯 Current Focus
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,20,11&height=40&section=header&text=🎯%20What%20I'm%20Working%20On&fontSize=16&fontColor=fff" />
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🔍 Currently Learning
+```yaml
+Advanced Topics:
+  - React.js & Next.js
+  - Cybersecurity Frameworks  
+  - Cloud Technologies (AWS)
+  - Machine Learning Basics
+```
+
+</td>
+<td width="50%" align="center">
+
+### 🛠️ Building & Goals
+```yaml
+Projects:
+  - Portfolio Website
+  - Security Audit Tools
+  - CTF Platform
+  - Open Source Contributions
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284089-2f2f90b4-681e-4148-8ba7-7e8c209ca605.gif" width="200">
+  
+  **📚 Current Reading:** "The Web Application Hacker's Handbook" & "Clean Code"
+</div>&multiline=true&width=600&height=100&lines=🚀+Full+Stack+Developer;🔐+Cybersecurity+Enthusiast;🎓+B.Tech+IT+Student;✨+Always+Learning+%26+Growing!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </div>
 
 ## 🚀 About Me
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 👨‍💻 Personal Info
 - 🎓 **2nd Year B.Tech IT Student** passionate about technology
 - 💻 **Full Stack Developer** with hands-on experience in modern web technologies
 - 🔐 **Cybersecurity Enthusiast** exploring the world of information security
+
+</td>
+<td align="center" width="50%">
+
+### 🎯 Current Journey
 - 🌱 Currently expanding my knowledge in **Advanced Web Development** and **Ethical Hacking**
 - 👯 Looking to collaborate on **Open Source Projects** and **Cybersecurity Tools**
 - 💬 Ask me about **Web Development**, **Cybersecurity**, or **Tech in general**
-- ⚡ Fun fact: I love solving coding challenges and CTF competitions!
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  <br>
+  <b>⚡ Fun fact: I love solving coding challenges and CTF competitions!</b>
+</div>
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=🚀+Technologies+I+Work+With;💻+Always+Learning+Something+New!" alt="Tech Stack" />
+</div>
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="center">
+  
+### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,java,cpp,html,css&theme=dark" />
+</p>
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### 🎨 Frontend Development  
+<p>
+<img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind,sass,figma&theme=dark" />
+</p>
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql&theme=dark" />
+</p>
 
-### Cybersecurity Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+### 🗄️ Databases & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,aws,firebase&theme=dark" />
+</p>
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🔒 Cybersecurity & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,vim&theme=dark" />
+</p>
+
+</div>
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavinayaaganesan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinayaaganesan&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6,17,11&height=40&section=header&text=📈%20My%20GitHub%20Journey&fontSize=16&fontColor=fff" />
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kavinayaaganesan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinayaaganesan&layout=compact&theme=tokyonight&border_radius=20&border_color=00D9FF&title_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="Top Languages"/>
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavinayaaganesan&theme=tokyonight" alt="Contribution Details"/>
 </div>
 
 ---
@@ -70,7 +155,15 @@
 ## 🔥 GitHub Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinayaaganesan&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&section=header&text=🔥%20Streak%20&%20Activity&fontSize=16&fontColor=fff" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=kavinayaaganesan&theme=tokyonight-duo&hide_border=true&stroke=00D9FF&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FF6B6B&dates=FFFFFF&sideLabels=00D9FF" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
 ---
@@ -78,7 +171,15 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavinayaaganesan&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=17,11,6&height=40&section=header&text=🏆%20Achievements%20&%20Trophies&fontSize=16&fontColor=fff" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kavinayaaganesan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
 </div>
 
 ---
@@ -86,7 +187,15 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavinayaaganesan&theme=redical&bg_color=0d1117&color=708090&line=708090&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,6,11&height=40&section=header&text=📈%20Contribution%20Activity&fontSize=16&fontColor=fff" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavinayaaganesan&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&custom_title=Kavinayaa's%20Contribution%20Graph" alt="Contribution Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </div>
 
 ---
@@ -94,7 +203,21 @@
 ## 💭 Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,17,6&height=40&section=header&text=💭%20Daily%20Inspiration&fontSize=16&fontColor=fff" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceeb7-de48-4b97-b355-5a88e4e3ecb8.gif" width="200">
 </div>
 
 ---
@@ -119,34 +242,56 @@
 ## 📫 Let's Connect!
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavinayaaganesan)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kavinayaaganesan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kavinayaaganesan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavinayaaganesan@gmail.com)
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=17,6,11,20&height=40&section=header&text=🌐%20Connect%20With%20Me&fontSize=16&fontColor=fff" />
+</div>
 
+<div align="center">
+  <a href="https://linkedin.com/in/kavinayaaganesan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=00D9FF" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/kavinayaaganesan">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=00D9FF" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/kavinayaaganesan">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=FF6B6B" alt="Instagram"/>
+  </a>
+  <a href="mailto:kavinayaaganesan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=FF6B6B" alt="Email"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99fa18717b5b.gif" width="300">
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kavinayaaganesan&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
-  
-  ### ⭐ Don't forget to star my repositories if you find them useful!
-  
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,6,20,17&height=40&section=header&text=⭐%20Thank%20You%20For%20Visiting!&fontSize=16&fontColor=fff" />
 </div>
 
-**kavinayaaganesan/kavinayaaganesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://komarev.com/ghpvc/?username=kavinayaaganesan&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/github/followers/kavinayaaganesan?label=Followers&style=for-the-badge&color=FF6B6B&labelColor=black" alt="GitHub Followers"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h3>⭐ Don't forget to star my repositories if you find them useful!</h3>
+  
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284126-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+</div>
+
