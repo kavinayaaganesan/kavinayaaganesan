@@ -1,7 +1,21 @@
 # Hi there, I'm Kavinayaa Ganesan! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&vCent## 🎯 Current Focus
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&v---
+
+## 🗺️ GitHub Streak Map
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fce7f3,100:fbcfe8&height=40&section=header&text=🗺️%20Streak%20Visualization&fontSize=16&fontColor=be185d" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=kavinayaaganesan&theme=default&hide_border=true&stroke=2563eb&background=ffffff&ring=dc2626&fire=f59e0b&currStreakLabel=1e40af&sideNums=374151&currStreakNum=dc2626&dates=6b7280&sideLabels=2563eb" alt="GitHub Streak Map"/>
+</div>
+
+---
+
+## 🎯 Current Focus
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ede9fe,100:ddd6fe&height=40&section=header&text=🎯%20What%20I'm%20Working%20On&fontSize=16&fontColor=6d28d9" />
@@ -42,7 +56,7 @@ Projects:
   <img src="https://user-images.githubusercontent.com/74038190/212284089-2f2f90b4-681e-4148-8ba7-7e8c209ca605.gif" width="200">
   
   **📚 Current Reading:** "The Web Application Hacker's Handbook" & "Clean Code"
-</div>e&multiline=true&width=600&height=100&lines=🚀+Full+Stack+Developer;🔐+Cybersecurity+Enthusiast;🎓+B.Tech+IT+Student;✨+Always+Learning+%26+Growing!" alt="Typing SVG" />
+</div>ine=true&width=600&height=100&lines=🚀+Full+Stack+Developer;🔐+Cybersecurity+Enthusiast;🎓+B.Tech+IT+Student;✨+Always+Learning+%26+Growing!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -86,6 +100,8 @@ Projects:
 
 ---
 
+---
+
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
@@ -122,6 +138,8 @@ Projects:
 </p>
 </div>
 
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -149,70 +167,74 @@ Projects:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavinayaaganesan&theme=default" alt="Contribution Details"/>
 </div>
 
-## 🔥 GitHub Streak Stats
+---
+
+## 🔥 GitHub Streak Stats & 💭 Daily Quote
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fef3c7,100:fde68a&height=40&section=header&text=🔥%20Streak%20&%20Activity&fontSize=16&fontColor=92400e" />
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🔥 Streak & Activity
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fef3c7,100:fde68a&height=40&section=header&text=🔥%20Streak%20Stats&fontSize=16&fontColor=92400e" />
 </div>
 
+<img src="https://streak-stats.demolab.com/?user=kavinayaaganesan&theme=default&hide_border=true&stroke=2563eb&background=ffffff&ring=dc2626&fire=f59e0b&currStreakLabel=1e40af&sideNums=374151&currStreakNum=dc2626&dates=6b7280&sideLabels=2563eb" alt="GitHub Streak Stats"/>
+
+</td>
+<td width="50%" align="center">
+
+### 💭 Daily Inspiration
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kavinayaaganesan&theme=default&hide_border=true&stroke=2563eb&background=ffffff&ring=dc2626&fire=f59e0b&currStreakLabel=1e40af&sideNums=374151&currStreakNum=dc2626&dates=6b7280&sideLabels=2563eb" alt="GitHub Streak Stats"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fef7cd,100:fef3c7&height=40&section=header&text=💭%20Quote%20of%20the%20Day&fontSize=16&fontColor=a16207" />
+</div>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&border=true" alt="Random Dev Quote"/>
+
+</td>
+</tr>
+</table>
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f3e8ff,100:e9d5ff&height=40&section=header&text=🏆%20Achievements%20&%20Trophies&fontSize=16&fontColor=7c3aed" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavinayaaganesan&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
-</div>
-
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Trophies & 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ecfdf5,100:d1fae5&height=40&section=header&text=📈%20Contribution%20Activity&fontSize=16&fontColor=065f46" />
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🏆 Achievements & Trophies
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f3e8ff,100:e9d5ff&height=40&section=header&text=🏆%20Achievements&fontSize=16&fontColor=7c3aed" />
+</div>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kavinayaaganesan&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=3&row=2" alt="GitHub Trophies"/>
+
+</td>
+<td width="50%" align="center">
+
+### 📈 Contribution Graph
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ecfdf5,100:d1fae5&height=40&section=header&text=📈%20Activity%20Graph&fontSize=16&fontColor=065f46" />
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavinayaaganesan&theme=github-light&bg_color=ffffff&color=2563eb&line=dc2626&point=374151&area=true&hide_border=true&custom_title=Recent%20Activity&height=300&width=400" alt="Contribution Graph"/>
+
+</td>
+</tr>
+</table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavinayaaganesan&theme=github-light&bg_color=ffffff&color=2563eb&line=dc2626&point=374151&area=true&hide_border=true&custom_title=Kavinayaa's%20Contribution%20Graph" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
-</div>
-
----
-
-## 💭 Quote of the Day
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fef7cd,100:fef3c7&height=40&section=header&text=💭%20Daily%20Inspiration&fontSize=16&fontColor=a16207" />
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" alt="Random Dev Quote"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceeb7-de48-4b97-b355-5a88e4e3ecb8.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 </div>
 
 ---
@@ -266,17 +288,17 @@ Projects:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,6,20,17&height=40&section=header&text=⭐%20Thank%20You%20For%20Visiting!&fontSize=16&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f0fdf4,100:dcfce7&height=40&section=header&text=⭐%20Thank%20You%20For%20Visiting!&fontSize=16&fontColor=166534" />
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://komarev.com/ghpvc/?username=kavinayaaganesan&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+        <img src="https://komarev.com/ghpvc/?username=kavinayaaganesan&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/github/followers/kavinayaaganesan?label=Followers&style=for-the-badge&color=FF6B6B&labelColor=black" alt="GitHub Followers"/>
+        <img src="https://img.shields.io/github/followers/kavinayaaganesan?label=Followers&style=for-the-badge&color=dc2626&labelColor=white" alt="GitHub Followers"/>
       </td>
     </tr>
   </table>
@@ -285,11 +307,11 @@ Projects:
 <div align="center">
   <h3>⭐ Don't forget to star my repositories if you find them useful!</h3>
   
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
   <img src="https://user-images.githubusercontent.com/74038190/212284126-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e7ff,100:c7d2fe&height=120&section=footer&animation=fadeIn" />
 </div>
